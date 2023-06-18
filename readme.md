@@ -7,6 +7,7 @@ Este é um projeto de automação de testes para o bootcamp de QA da Sysmap.
 ## Tecnologias utilizadas
 
 - Java
+- Junit
 - Selenium
 
 ## Dependências
