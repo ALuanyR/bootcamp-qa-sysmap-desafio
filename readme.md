@@ -1,5 +1,7 @@
 # Bootcamp QA Sysmap Desafio
 
+[![Testes](https://img.shields.io/badge/Testes-Finalizados-green)](#)
+
 Este é um projeto de automação de testes para o bootcamp de QA da Sysmap.
 
 ## Tecnologias utilizadas
